@@ -1,0 +1,173 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+.header {
+    margin-top: 45px;
+}
+
+.list {
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    gap: 120px;
+}
+
+.header-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-btn {
+    width: 189px;
+    border: 3px solid #DE2E54;
+    color: #DE2E54;
+    font-family: "Open Sans";
+    padding: 15px 15px 15px 15px;
+    border-radius: 10px;
+}
+
+.section {
+    background-image: url("./image\ 4.png");
+}
+
+.h1 {
+    font-family: "Open Sans";
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43px;
+    width: 700px;
+    color: white;
+}
+
+.main-wrapper {
+    display: flex;
+    margin-top: 30px;
+}
+
+.left {
+    margin-top: 120px;
+}
+
+
+.main-btn {
+    width: 189px;
+    border: none;
+    background-color: #DE2E54;
+    color: #ffffff;
+    font-family: "Open Sans";
+    padding: 15px 15px 15px 15px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.right {
+    margin-top: 25px;
+}
+
+.xizmatlar {
+    text-align: center;
+    margin-top: 45px;
+    font-family: "Open Sans";
+    ;
+}
+
+.section-wrapper {
+    display: flex;
+    margin-left: 170px;
+    gap: 200px;
+    margin-top: 50px;
+}
+
+.p-text {
+    width: 600px;
+    margin-top: 25px;
+    font-family: Open Sans;
+}
+
+.h3 {
+    margin-top: 25px;
+    font-family: "Open Sans";
+}
+
+.left-wrap {
+    border-radius: 20px;
+}
+
+.ends {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact {
+    width: 540px;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.full-wrap {
+    background-color: #0EB4C1;
+    width: 100%;
+}
+
+.contacts {
+    margin-top: 30px;
+    margin-left: 30px;
+    flex-direction: column;
+}
+
+.input {
+    width: 460px;
+    height: 39px;
+    border-radius: 5px;
+}
+
+.btn {
+    width: 460px;
+    background-color:#38CC8B;
+    color: white;
+    font-family: "Open Sans";
+    border: none;
+    margin-top: 28px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.map {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.div1 {
+    margin-top: 21px;
+}
+
+.fotter-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer {
+    background-color: black;
+}
+
+.ft-left {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
